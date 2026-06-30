@@ -199,8 +199,6 @@ http://localhost:5173
 # 🔮 Future Improvements
 
 * 📱 Mobile Responsive UI
-* 📅 Calendar View
-* 🏆 Achievement Badges
 * 👥 Friend Challenges
 * 📧 Email Notifications
 * 🌙 Dark Mode
